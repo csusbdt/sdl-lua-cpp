@@ -1,0 +1,13 @@
+_site
+/git/osx/osx.xcodeproj/project.xcworkspace
+/git/osx/osx.xcodeproj/xcuserdata
+a.out
+main.exe
+*.obj
+Debug
+Release
+ipch
+*.sdf
+*.user
+*.suo
+
